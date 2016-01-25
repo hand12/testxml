@@ -1,0 +1,447 @@
+[
+    {
+        "id": "document",
+        "name": "testxml",
+        "version": "1.0"
+    },
+    {
+        "id": "testxml-1",
+        "name": "毛利 サルヴァトーレ クオモ SALVATORE CUOMO 六本木ヒルズ",
+        "description": "http://imgfp.hotp.jp/IMGH/34/89/P010523489/P010523489_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/34/89/P010523489/P010523489_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7290532824,
+                35.6604005021,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7290532824,
+                    35.6604005021,
+                    0,
+                    139.7290532824,
+                    35.6604005021,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-2",
+        "name": "集 新宿店 炭火BAR",
+        "description": "http://imgfp.hotp.jp/IMGH/41/01/P010214101/P010214101_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/41/01/P010214101/P010214101_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7013265174,
+                35.6938821025,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7013265174,
+                    35.6938821025,
+                    0,
+                    139.7013265174,
+                    35.6938821025,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-3",
+        "name": "魚の間",
+        "description": "http://imgfp.hotp.jp/IMGH/94/43/P021879443/P021879443_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/94/43/P021879443/P021879443_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7745145878,
+                35.6977391807,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7745145878,
+                    35.6977391807,
+                    0,
+                    139.7745145878,
+                    35.6977391807,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-4",
+        "name": "旬家 shunka 新宿店",
+        "description": "http://imgfp.hotp.jp/IMGH/40/66/P021524066/P021524066_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/40/66/P021524066/P021524066_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7059345504,
+                35.6916074818,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7059345504,
+                    35.6916074818,
+                    0,
+                    139.7059345504,
+                    35.6916074818,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-5",
+        "name": "パセラ リゾーツ 新宿歌舞伎町店",
+        "description": "http://imgfp.hotp.jp/IMGH/99/88/P022979988/P022979988_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/99/88/P022979988/P022979988_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7026111329,
+                35.6938224213,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7026111329,
+                    35.6938224213,
+                    0,
+                    139.7026111329,
+                    35.6938224213,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-6",
+        "name": "てぃーだ 新宿西口店",
+        "description": "http://imgfp.hotp.jp/IMGH/19/53/P010681953/P010681953_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/19/53/P010681953/P010681953_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.6966297086,
+                35.693529239,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.6966297086,
+                    35.693529239,
+                    0,
+                    139.6966297086,
+                    35.693529239,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-7",
+        "name": "grib グリブ",
+        "description": "http://imgfp.hotp.jp/IMGH/47/62/P022534762/P022534762_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/47/62/P022534762/P022534762_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7075836865,
+                35.6957951097,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7075836865,
+                    35.6957951097,
+                    0,
+                    139.7075836865,
+                    35.6957951097,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-8",
+        "name": "鉄板大衆酒場むらちゃん",
+        "description": "http://imgfp.hotp.jp/IMGH/70/90/P023147090/P023147090_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/70/90/P023147090/P023147090_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.8600658193,
+                35.6661541937,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.8600658193,
+                    35.6661541937,
+                    0,
+                    139.8600658193,
+                    35.6661541937,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-9",
+        "name": "春夏秋冬 新宿東口店",
+        "description": "http://imgfp.hotp.jp/IMGH/29/14/P023422914/P023422914_69.jpg",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/IMGH/29/14/P023422914/P023422914_69.jpg",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.7010193067,
+                35.6942467754,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.7010193067,
+                    35.6942467754,
+                    0,
+                    139.7010193067,
+                    35.6942467754,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "testxml-10",
+        "name": "創作料理 しゃぶしゃぶ 宴 うたげ",
+        "description": "http://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+            "scale": 0.4,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.8139066572,
+                35.6943422846,
+                0
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.8139066572,
+                    35.6943422846,
+                    0,
+                    139.8139066572,
+                    35.6943422846,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            255,
+                            255,
+                            32
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
